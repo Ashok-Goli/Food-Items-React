@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Food-Items-React/static/css/main.2dea0046.css",
+    "main.js": "/Food-Items-React/static/js/main.5a4c92b4.js",
+    "static/js/787.40a96a1a.chunk.js": "/Food-Items-React/static/js/787.40a96a1a.chunk.js",
+    "index.html": "/Food-Items-React/index.html",
+    "main.2dea0046.css.map": "/Food-Items-React/static/css/main.2dea0046.css.map",
+    "main.5a4c92b4.js.map": "/Food-Items-React/static/js/main.5a4c92b4.js.map",
+    "787.40a96a1a.chunk.js.map": "/Food-Items-React/static/js/787.40a96a1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dea0046.css",
+    "static/js/main.5a4c92b4.js"
+  ]
+}
